@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<center><h1>Pratik Patil</h1></center>
+<h1 align="center">Pratik Patil</h1>
 
 
 
