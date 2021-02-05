@@ -9,4 +9,6 @@
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: pratikmpatil12@gmail.com
 
+
+<h4>I am currently doing AppliedAi Machine Learning Course</h4>
 <h1 align="center">⚡️Stay awesome!⚡️</h1>
