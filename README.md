@@ -20,7 +20,7 @@ I implement code that will mail user if battery reaches to 100% and user is stil
 
 
 <img src='https://github.com/pratikp12/battery-Charging-Checker/blob/main/Hnet-image500.gif'>
-Cetifications Done By me
+Cetifications Done By me<br>
 -IBM Data Science Professional Certificate <a href='https://www.coursera.org/account/accomplishments/specialization/certificate/Y7BAPGK4V6FT'> Link<a>
 
 <h1 align="center">⚡️Stay awesome!⚡️</h1>
