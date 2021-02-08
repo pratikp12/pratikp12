@@ -5,10 +5,11 @@
 
 
 
-- 🔭 I’m currently working on Covid-10 dashboard
+- 🔭 I’m currently working on Covid-19 dashboard
 - 🌱 I’m currently learning Python,Data analytics
 - 📫 How to reach me: pratikmpatil12@gmail.com
 
+see my LinkedIn profile:-<a href='https://www.linkedin.com/in/pratik-patil-3108081a5/'>link</a><br>
 I like transform my queryies into implementation
 
 Battery Charging checker 🔋
