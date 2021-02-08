@@ -11,8 +11,18 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pRp5LOd4HZEYckqEe9j0Plwqnw7mYUq3/view?usp=sharing](https://drive.google.com/file/d/1pRp5LOd4HZEYckqEe9j0Plwqnw7mYUq3/view?usp=sharing)
 
-- ⚡ Fun fact **I think i am Funny**
+- ⚡ Fun fact **I think i am Funny**<br>
+I like transform my queryies into implementation
 
+Battery Charging checker 🔋
+## Description
+One day I was working on my Laptop and suddenly I saw laptop charging is indicating 20%. That day I thought what if I write a script that works in the background and inform the user when the battery reaches 40%. Sometime during working Hours we forget to check battery of laptop.
+So i write python script that check laptop battery every 15 minutes. If battery is less than 40% it will send mail to user.
+Mail content current battery status and greetings like good morning or good afternoon. While charging is on It will not send any mail.
+I implement code that will mail user if battery reaches to 100% and user is still charging laptop.
+
+
+<img src='https://github.com/pratikp12/battery-Charging-Checker/blob/main/Hnet-image500.gif'>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pratik-patil-3108081a5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pratik-patil-3108081a5/" height="30" width="40" /></a>
