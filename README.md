@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Covid-19 Dashboard**
 
-- 🌱 I’m currently learning **Python, Data analytics**
+- 🌱 I’m currently learning **Python, Data analytics, Tableau, Deep Learning**
 
 - 📝 I regularly write articles on [medium.com](medium.com)
 
