@@ -25,7 +25,7 @@ I implement code that will mail user if battery reaches to 100% and user is stil
 <img src='https://github.com/pratikp12/battery-Charging-Checker/blob/main/Hnet-image500.gif'>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pratik-patil-3108081a5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pratik-patil-3108081a5/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pratikmpatil/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pratik-patil-3108081a5/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/pratik1297" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/pratik1297" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/pratik.patil.79677" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/pratik.patil.79677" height="30" width="40" /></a>
 </p>
