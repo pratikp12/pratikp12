@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Patil</h1>
 <h3 align="center">A passionate Data science enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Multiclass Model** Product affinity at People Interactive Pvt. Ltd. Shaadi.com
+- 🔭 I’m currently working on **NLP Projects ** at Axis Bank.
 
 - 🌱 I’m currently learning **Python, Data analytics, Tableau, Deep Learning,Power Bi SAS**
 
