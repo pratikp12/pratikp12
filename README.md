@@ -26,28 +26,32 @@ I implement code that will mail user if battery reaches to 100% and user is stil
   <tr>
     <th>Type</th>
     <th>Names</th>
-    <th>links</th>
+  
   </tr>
   <tr>
-    <td rowspan="3">Classification</td>
-    <td>Starbuck Capston Challange</td>
+    <td rowspan="2">Classification</td>
     <td><a href='https://github.com/pratikp12/starbuck_challenge'>Starbuck Capston Challange</a></td>
   </tr>
+  
   <tr>
-    <td>Dog breed classifier</td>
-    <td> <a href='https://github.com/pratikp12/dog_breed_classifer'>Dog breed classifier</a></td>
-  </tr>
-  <tr>
-    <td>Churn Rate</td>
     <td> <a href='https://github.com/pratikp12/Minimize_churn_rate'>Churn Rate</a></td>
   </tr>
 
   <tr>
-    <td rowspan="2">Regression</td>
-    <td>Car Price Prediction</td>
+    <td>Regression</td>
     <td><a href='https://github.com/pratikp12/Car_price_prediction'>Car Price Prediction</a></td>
   </tr>
-  
+  <tr>
+    <td rowspan='2'> NLP </td>
+    <td><a href='https://github.com/pratikp12/Handwritten_equation_solverCNN'>Handwritten Equation solver </td>
+  </tr>
+   <tr>
+    <td> <a href='https://github.com/pratikp12/Bert-sentiment-Amazon'>amazon Review analysis using bert </a></td>
+  </tr>
+  <tr>
+    <td> Computer Vision</td>
+    <td> <a href='https://github.com/pratikp12/dog_breed_classifer'>Dog breed classifier</a></td>
+  </tr>
 </table>
 
 
