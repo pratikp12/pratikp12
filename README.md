@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **NLP Projects** at Axis Bank.
 
-- 🌱 I’m currently learning **Python, Data analytics, Tableau, Deep Learning,Power-Bi *
+- 🌱 I’m currently learning **Python, Data analytics, Tableau, Deep Learning,Power-Bi **
 
 - 📝 I regularly write articles on [medium.com](medium.com)
 
