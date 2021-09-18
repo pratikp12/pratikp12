@@ -42,12 +42,16 @@ I implement code that will mail user if battery reaches to 100% and user is stil
     <td><a href='https://github.com/pratikp12/Car_price_prediction'>Car Price Prediction</a></td>
   </tr>
   <tr>
-    <td rowspan='2'> NLP </td>
+    <td rowspan='3'> NLP </td>
     <td><a href='https://github.com/pratikp12/Handwritten_equation_solverCNN'>Handwritten Equation solver </td>
   </tr>
    <tr>
     <td> <a href='https://github.com/pratikp12/Bert-sentiment-Amazon'>amazon Review analysis using bert </a></td>
   </tr>
+   <tr>
+    <td> <a href='https://github.com/pratikp12/Disaster_response'>Disaster Response</a></td>
+  </tr>
+  
   <tr>
     <td> Computer Vision</td>
     <td> <a href='https://github.com/pratikp12/dog_breed_classifer'>Dog breed classifier</a></td>
