@@ -21,6 +21,24 @@ So i write python script that check laptop battery every 15 minutes. If battery 
 Mail content current battery status and greetings like good morning or good afternoon. While charging is on It will not send any mail.
 I implement code that will mail user if battery reaches to 100% and user is still charging laptop.
 
+### projects list 
+<table>
+  <tr>
+    <th>Type</th>
+    <th>Names</th>
+    <th>links</th>
+  </tr>
+  <tr>
+    <td rowspan="2">Classification</td>
+    <td>Starbuck Capston Challange</td>
+    <td><a href='https://github.com/pratikp12/starbuck_challenge'>Starbuck Capston Challange</a></td>
+  </tr>
+  <tr>
+    <td>Dog breed classifier</td>
+    <td> <a href='https://github.com/pratikp12/dog_breed_classifer'>Dog breed classifier</a><td>
+  </tr>
+</table>
+
 
 <img src='https://github.com/pratikp12/battery-Charging-Checker/blob/main/Hnet-image500.gif'>
 <h3 align="left">Connect with me:</h3>
