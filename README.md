@@ -35,8 +35,14 @@ I implement code that will mail user if battery reaches to 100% and user is stil
   </tr>
   <tr>
     <td>Dog breed classifier</td>
-    <td> <a href='https://github.com/pratikp12/dog_breed_classifer'>Dog breed classifier</a><td>
+    <td> <a href='https://github.com/pratikp12/dog_breed_classifer'>Dog breed classifier</a></td>
   </tr>
+  <tr>
+    <td rowspan="2">Regression</td>
+    <td>Car Price Prediction</td>
+    <td><a href='https://github.com/pratikp12/Car_price_prediction'>Car Price Prediction</a></td>
+  </tr>
+  
 </table>
 
 
