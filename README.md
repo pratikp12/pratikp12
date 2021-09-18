@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **NLP Projects** at Axis Bank.
 
-- 🌱 I’m currently learning **Python, Data analytics, Tableau, Deep Learning,Power Bi SAS**
+- 🌱 I’m currently learning **Python, Data analytics, Tableau, Deep Learning,Power-Bi *
 
 - 📝 I regularly write articles on [medium.com](medium.com)
 
@@ -42,10 +42,7 @@ I implement code that will mail user if battery reaches to 100% and user is stil
     <td><a href='https://github.com/pratikp12/Car_price_prediction'>Car Price Prediction</a></td>
   </tr>
   <tr>
-    <td rowspan='3'> NLP </td>
-    <td><a href='https://github.com/pratikp12/Handwritten_equation_solverCNN'>Handwritten Equation solver </td>
-  </tr>
-   <tr>
+    <td rowspan='2'> NLP </td>
     <td> <a href='https://github.com/pratikp12/Bert-sentiment-Amazon'>amazon Review analysis using bert </a></td>
   </tr>
    <tr>
@@ -53,9 +50,13 @@ I implement code that will mail user if battery reaches to 100% and user is stil
   </tr>
   
   <tr>
-    <td> Computer Vision</td>
+    <td rowspan='2'> Computer Vision</td>
     <td> <a href='https://github.com/pratikp12/dog_breed_classifer'>Dog breed classifier</a></td>
+    
   </tr>
+  <tr>
+    <td><a href='https://github.com/pratikp12/Handwritten_equation_solverCNN'>Handwritten Equation solver </td>
+  </tr
 </table>
 
 
