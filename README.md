@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Data analytics, Tableau, Deep Learning,Power-Bi**
 
-- 📝 I regularly write articles on [medium.com](medium.com)
+- 📝 I regularly write articles on [medium.com](https://medium.com/@pratikmpatil12)
 
 - 📫 How to reach me **pratikmpatil12@gmail.com**
 
