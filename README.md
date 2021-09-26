@@ -66,13 +66,16 @@ I implement code that will mail user if battery reaches to 100% and user is stil
   </tr>
   
   <tr>
-    <td rowspan='2'> Computer Vision</td>
+    <td rowspan='3'> Computer Vision</td>
     <td> <a href='https://github.com/pratikp12/dog_breed_classifer'>Dog breed classifier</a></td>
     
   </tr>
   <tr>
     <td><a href='https://github.com/pratikp12/Handwritten_equation_solverCNN'>Handwritten Equation solver </td>
-  </tr
+  </tr>
+   <tr>    
+      <td><a href='https://github.com/pratikp12/Regional-language-notice-board-translator'>Regional Language Notice board Translator</td>
+    </tr>
 </table>
 
 
