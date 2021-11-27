@@ -79,4 +79,7 @@ I implement code that will mail user if battery reaches to 100% and user is stil
 </table>
 
 
+### Certifications
 
+#### Deep Learning Specialization (deeplearning.ai)
+![Coursera WY48MNDYS8K8 Deep Learning Specialization_page-0001](https://user-images.githubusercontent.com/17496623/143686701-80cb4ceb-c2c3-468f-9371-ddf0858a8b99.jpg)
