@@ -81,5 +81,14 @@ I implement code that will mail user if battery reaches to 100% and user is stil
 
 ### Certifications
 
+### IBM Data Science Professional Certificate 
+![image](https://user-images.githubusercontent.com/17496623/144737076-44d843da-193e-4bdc-b6da-3b318e637868.png)
+<a href='https://www.coursera.org/account/accomplishments/specialization/certificate/Y7BAPGK4V6FT'>Certificate link</a>
+
 #### Deep Learning Specialization (deeplearning.ai)
 ![Coursera WY48MNDYS8K8 Deep Learning Specialization_page-0001](https://user-images.githubusercontent.com/17496623/143686701-80cb4ceb-c2c3-468f-9371-ddf0858a8b99.jpg)
+<a href='https://www.coursera.org/account/accomplishments/specialization/certificate/WY48MNDYS8K8'>certificate link</a>
+
+#### Natural Language Processing Specialization (deeplearning.ai)
+![image](https://user-images.githubusercontent.com/17496623/144736835-0e8254dc-210a-4d41-9adf-3eabc81927c4.png)
+<a href='https://www.coursera.org/account/accomplishments/specialization/certificate/H4A8PZWNSVKJ'>certificate link</a>
