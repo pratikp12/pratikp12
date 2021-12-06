@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pratikmpatil12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pRp5LOd4HZEYckqEe9j0Plwqnw7mYUq3/view?usp=sharing](https://drive.google.com/file/d/1pRp5LOd4HZEYckqEe9j0Plwqnw7mYUq3/view?usp=sharing)
+- 📄 Know about my experiences <a href='https://drive.google.com/file/d/14RqTvxpIa4pF-DR2Pt0yFQ3CPcs9Pz1u/view?usp=sharing'> link</a>
 
 - ⚡ Fun fact **I think i am Funny**<br>
 I like transform my queryies into implementation
