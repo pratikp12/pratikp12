@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Python, Data analytics, Tableau, Deep Learning,Power-Bi**
 
+- 🌱 I’m currently learning **Big Data Engineer Course by** Trendytech (Sumit Mittal)
+
 - 📝 I regularly write articles on [medium.com](https://medium.com/@pratikmpatil12)
 
 - 📫 How to reach me **pratikmpatil12@gmail.com**
