@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pratik Patil</h1>
 <h3 align="center">A passionate Data science enthusiast from India</h3>
 
-- 🔭 I’m currently working on **NLP Projects** at Axis Bank under AICOE(AI Center of Excellence.
+- 🔭 I’m currently working on **NLP Projects, News Alerts** at Axis Bank under AICOE(AI Center of Excellence.
 
-- 🌱 I’m currently learning **Python, Data analytics, Tableau, Deep Learning,Power-Bi**
+- 🌱 I’m currently learning **Python, Pyspark, Hive, Hadoop, Scala **
 
 - 🌱 I’m currently learning **Big Data Engineer Course by** Trendytech (Sumit Mittal)
 
