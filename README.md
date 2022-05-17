@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **NLP Projects, News Alerts** at Axis Bank under AICOE(AI Center of Excellence.
 
-- 🌱 I’m currently learning **Python, Pyspark, Hive, Hadoop, Scala **
+- 🌱 I’m currently learning **Hadoop, Pyspark, Hive, Scala ,Hbase**
 
 - 🌱 I’m currently learning **Big Data Engineer Course by** Trendytech (Sumit Mittal)
 
