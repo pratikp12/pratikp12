@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik Patil</h1>
-<h3 align="center">A passionate Data science enthusiast from India</h3>
+<h3 align="center">A passionate Big Data learner from India</h3>
 
 - 🔭 I’m currently working on **NLP Projects, News Alerts** at Axis Bank under AICOE(AI Center of Excellence.
 
@@ -85,9 +85,6 @@ I implement code that will mail user if battery reaches to 100% and user is stil
 
 ### Certifications
 
-### IBM Data Science Professional Certificate 
-![image](https://user-images.githubusercontent.com/17496623/144737076-44d843da-193e-4bdc-b6da-3b318e637868.png)
-<a href='https://www.coursera.org/account/accomplishments/specialization/certificate/Y7BAPGK4V6FT'>Certificate link</a>
 
 #### Deep Learning Specialization (deeplearning.ai)
 ![Coursera WY48MNDYS8K8 Deep Learning Specialization_page-0001](https://user-images.githubusercontent.com/17496623/143686701-80cb4ceb-c2c3-468f-9371-ddf0858a8b99.jpg)
