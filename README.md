@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning **Hadoop, Pyspark, Hive, Scala ,Hbase**
 
-- 🌱 I’m currently learning **Big Data Engineer Course by** Trendytech (Sumit Mittal)
-
+- 🌱 I’m currently learning **Data analyst bootcamp by** Codebasics
 - 📝 I regularly write articles on [medium.com](https://medium.com/@pratikmpatil12)
 
 - 📫 How to reach me **pratikmpatil12@gmail.com**
