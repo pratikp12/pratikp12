@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pratik Patil</h1>
-<h3 align="center">A passionate Big Data learner from India</h3>
+<h3 align="center">A passionate data analyst working in banking industry</h3>
 
 - 🔭 I’m currently working on **NLP Projects, News Alerts** at Axis Bank under Alternate Data.
 
 - 🌱 I’m currently learning **Hadoop, Pyspark, Hive, Powerbi**
 
 - 🌱 I’m currently learning **Data analyst bootcamp by** Codebasics
-- 📝 I regularly write articles on [medium.com](https://medium.com/@pratikmpatil12)
+  
+- 📝 check my articles on [medium.com](https://medium.com/@pratikmpatil12)
 
 - 📫 How to reach me **pratikmpatil12@gmail.com**
 
