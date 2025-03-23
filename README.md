@@ -92,3 +92,12 @@ I implement code that will mail user if battery reaches to 100% and user is stil
 #### Natural Language Processing Specialization (deeplearning.ai)
 ![image](https://user-images.githubusercontent.com/17496623/144736835-0e8254dc-210a-4d41-9adf-3eabc81927c4.png)
 <a href='https://www.coursera.org/account/accomplishments/specialization/certificate/H4A8PZWNSVKJ'>certificate link</a>
+
+
+### Canva Essential
+<a href='https://www.canva.com/design-school/certification-award/4f18124c-ccce-4a37-a4ad-d6d2d92fe510'> certificate</a>
+
+
+### Graphic design essential
+
+<a href='https://www.canva.com/design-school/certification-award/4b48c003-cdf2-4d7e-b832-ba693f6b7116?'> certificate</a>
