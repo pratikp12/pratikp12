@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Patil</h1>
 <h3 align="center">A passionate data analyst working in banking industry</h3>
 
-- 🔭 I’m currently working on **NLP Projects, News Alerts** at Axis Bank under Alternate Data.
+- 🔭 I’m currently working on **Spends datamart and Alternate data** at Axis Bank under Alternate Data.
 
 - 🌱 I’m currently learning **Hadoop, Pyspark, Hive, Powerbi**
 
