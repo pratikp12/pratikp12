@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pratik Patil</h1>
-<h3 align="center">A passionate data analyst working in banking industry</h3>
+<h3 align="center">A passionate data analyst working in logistic industry</h3>
 
-- 🔭 I’m currently working on **Spends datamart and Alternate data** at Axis Bank under Alternate Data.
+- 🔭 I’m currently working on **geozone tool** at DTDC Express in Corporate Operations analytics.
 
-- 🌱 I’m currently learning **Hadoop, Pyspark, Hive, Powerbi**
+- 🌱 I’m currently learning **Hadoop, Pyspark, Hive,**
 
 - 🌱 I’m currently learning **Data analyst bootcamp by** Codebasics
   
