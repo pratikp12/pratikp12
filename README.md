@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pratik Patil</h1>
 <h3 align="center">A passionate data analyst working in logistic industry</h3>
 
-- 🔭 I’m currently working on **geozone tool** at DTDC Express in Corporate Operations analytics.
+- 🔭 I’m currently working on **Last mile Operations processs Improvements** at DTDC Express in Corporate Operations.
 
-- 🌱 I’m currently learning **Hadoop, Pyspark, Hive,**
+- 🌱 I’m currently learning **AWS, Airflow**
 
 - 🌱 I’m currently learning **Data analyst bootcamp by** Codebasics
   
